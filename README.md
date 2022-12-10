@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on aoc, musik, uu and c!
+- 🌱 I’m currently learning graphene & perl
+- 👯 I’m looking to collaborate on interesting startup ideas
+- 💬 Ask me about anything! but preferably climbing mountains
+- 📫 How to reach me: manel.mateos.work@gmail.com / summitsjournal.com
+
+![alt text](https://github.com/manel-s/manel-s/blob/main/pica.jpg?raw=true)
