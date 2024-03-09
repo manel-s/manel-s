@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on aoc, musik, uu and c!
-- 🌱 I’m currently learning graphene & perl
+- 🔭 I’m currently working on toolms!
 - 👯 I’m looking to collaborate on interesting startup ideas
 - 💬 Ask me about anything! but preferably climbing mountains
-- 📫 How to reach me: manel.mateos.work@gmail.com / summitsjournal.com
+- 📫 How to reach me: manel.mateos.side@gmail.com
 
 ![alt text](https://github.com/manel-s/manel-s/blob/main/pica.jpg?raw=true)
